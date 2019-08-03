@@ -1,0 +1,14 @@
+{
+  "name": "SEGGER RTT",
+  "keywords": "SEGGER, RTT, Jlink, J-Link, Debugging",
+  "description": "SEGGER RTT repackaged into a PlatofrmIO library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyfarthing/SEGGER_RTT.git"
+  },
+  "version": "1.0",
+  "exclude": [
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
